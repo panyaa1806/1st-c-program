@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main(){
+
+
+
+    int num1;
+    int num2;
+    //printf(""); 
+    printf("HELLO world \nEnter your number:");
+    scanf("%d",&num1);
+    scanf("%d",&num2);
+
+    printf("%d",num1);
+
+    return 0;
+
+
+}
